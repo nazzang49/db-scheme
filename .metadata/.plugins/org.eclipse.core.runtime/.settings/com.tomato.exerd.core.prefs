@@ -1,0 +1,5 @@
+#Tue May 07 13:21:51 KST 2019
+eclipse.preferences.version=1
+com.tomato.exerd.preference.IDiagramPreferenceConstants.DEFAULT_TABLE_THEME=deepSea
+com.tomato.exerd.preference.product.lastSelectedProductId=com.tomato.db.mysql
+last-known-version=3.1.0.20190218-1817
